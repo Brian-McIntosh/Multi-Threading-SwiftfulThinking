@@ -17,6 +17,7 @@ Misc. notes:
 * ObservableObject
 * @Published
 * @StateObject
+* simple mock data
 ```swift
 class BackgroundThreadViewModel: ObservableObject {
     @Published var dataArray: [String] = []
