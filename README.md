@@ -1,10 +1,12 @@
 # Multi-Threading-SwiftfulThinking
 
+Based on video from SwiftfulThinking: [Multi-threading with background threads and queues in Xcode](https://www.youtube.com/watch?v=jEpg2SYvVV8)
+
 ### Open Debug Navigator > CPU while running in Simulator to view threads
 
 <img src="https://github.com/Brian-McIntosh/Multi-Threading-SwiftfulThinking/blob/main/images/Screen%20Shot%202023-01-28%20at%207.19.57%20PM.png" width="500"/>
 
-<img src="https://github.com/Brian-McIntosh/Multi-Threading-SwiftfulThinking/blob/main/images/Screen%20Shot%202023-01-28%20at%207.27.21%20PM.png" width="900"/>
+<img src="https://github.com/Brian-McIntosh/Multi-Threading-SwiftfulThinking/blob/main/images/Screen%20Shot%202023-01-28%20at%207.27.21%20PM.png" width="950"/>
 
 ### Other thread options (author uses utility most often)
 
