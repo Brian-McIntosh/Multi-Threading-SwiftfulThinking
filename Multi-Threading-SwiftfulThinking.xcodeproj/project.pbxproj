@@ -11,6 +11,7 @@
 		25FE29362985E8AE00832899 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25FE29352985E8AE00832899 /* ContentView.swift */; };
 		25FE29382985E8C800832899 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25FE29372985E8C800832899 /* Assets.xcassets */; };
 		25FE293B2985E8C800832899 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25FE293A2985E8C800832899 /* Preview Assets.xcassets */; };
+		25FE29422985EA2D00832899 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25FE29412985EA2D00832899 /* BackgroundThreadBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		25FE29352985E8AE00832899 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		25FE29372985E8C800832899 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25FE293A2985E8C800832899 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		25FE29412985EA2D00832899 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				25FE29332985E8AE00832899 /* Multi_Threading_SwiftfulThinkingApp.swift */,
 				25FE29352985E8AE00832899 /* ContentView.swift */,
+				25FE29412985EA2D00832899 /* BackgroundThreadBootcamp.swift */,
 				25FE29372985E8C800832899 /* Assets.xcassets */,
 				25FE29392985E8C800832899 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25FE29422985EA2D00832899 /* BackgroundThreadBootcamp.swift in Sources */,
 				25FE29362985E8AE00832899 /* ContentView.swift in Sources */,
 				25FE29342985E8AE00832899 /* Multi_Threading_SwiftfulThinkingApp.swift in Sources */,
 			);

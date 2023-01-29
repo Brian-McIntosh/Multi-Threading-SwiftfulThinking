@@ -11,7 +11,7 @@ import SwiftUI
 struct Multi_Threading_SwiftfulThinkingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BackgroundThreadBootcamp()
         }
     }
 }
